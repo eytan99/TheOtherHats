@@ -3912,10 +3912,14 @@
         {
             "adaptive": false,
             "author": "Adam",
+            "backresource": "Ghost.png",
+            "climbresource": "Ghost.png",
             "condition": "None",
             "name": "Casper",
             "package": "Moonlight Hats",
             "reshasha": "fc42b241b36f5348efc4bee75830b7c0",
+            "reshashb": "fc42b241b36f5348efc4bee75830b7c0",
+            "reshashc": "fc42b241b36f5348efc4bee75830b7c0",
             "resource": "Ghost.png"
         }
     ]
