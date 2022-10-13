@@ -3910,7 +3910,7 @@
             "resource": "UFO_adaptive.png"
         },
         {
-            "adaptive": false,
+            "adaptive": true,
             "author": "Adam",
             "condition": "None",
             "name": "Casper",
