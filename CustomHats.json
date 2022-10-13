@@ -3908,6 +3908,15 @@
             "reshashb": "ef6a7e1d750814a928fe73c555cc2d6c",
             "reshashc": "ed82c66ab75e28de1c97c8f1b76186b6",
             "resource": "UFO_adaptive.png"
+        },
+        {
+            "adaptive": false,
+            "author": "Adam",
+            "condition": "None",
+            "name": "Casper",
+            "package": "Moonlight Hats",
+            "reshasha": "fc42b241b36f5348efc4bee75830b7c0",
+            "resource": "Ghost.png"
         }
     ]
 }
