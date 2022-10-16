@@ -3926,9 +3926,11 @@
             "adaptive": true,
             "author": "Adam",
             "condition": "None",
+            "flipresource": "Poppy_flip.png",
             "name": "Blacksmith",
             "package": "Moonlight Hats",
             "reshasha": "8feb7cd1479b4315107201162249da4a",
+            "reshashf": "8feb7cd1479b4315107201162249da4a",
             "resource": "Poppy.png"
         }
     ]
