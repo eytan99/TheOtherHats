@@ -3921,6 +3921,15 @@
             "reshashb": "fc42b241b36f5348efc4bee75830b7c0",
             "reshashc": "fc42b241b36f5348efc4bee75830b7c0",
             "resource": "Ghost.png"
+        },
+        {
+            "adaptive": false,
+            "author": "Adam",
+            "condition": "None",
+            "name": "Blacksmith",
+            "package": "Moonlight Hats",
+            "reshasha": "8feb7cd1479b4315107201162249da4a",
+            "resource": "Poppy.png"
         }
     ]
 }
