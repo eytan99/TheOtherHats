@@ -3932,6 +3932,15 @@
             "reshasha": "8feb7cd1479b4315107201162249da4a",
             "reshashf": "8feb7cd1479b4315107201162249da4a",
             "resource": "Poppy.png"
+        },
+        {
+            "adaptive": false,
+            "author": "Adam",
+            "condition": "None",
+            "name": "Poppy Blacksmith2",
+            "package": "Moonlight Hats",
+            "reshasha": "926c6fbde559f4c8c89f85e815d4bfa3",
+            "resource": "Poppy2.png"
         }
     ]
 }
