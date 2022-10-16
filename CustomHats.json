@@ -3923,6 +3923,7 @@
             "resource": "Ghost.png"
         },
         {
+            "adaptive": true,
             "author": "Adam",
             "condition": "None",
             "name": "Blacksmith",
