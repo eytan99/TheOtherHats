@@ -3950,6 +3950,15 @@
             "package": "Moonlight Hats",
             "reshasha": "e08b900c51a40bff99bf21404bd6ad40",
             "resource": "test_ninja.png"
+        },
+        {
+            "adaptive": false,
+            "author": "Adam",
+            "condition": "None",
+            "name": "test ninja2",
+            "package": "Moonlight Hats",
+            "reshasha": "0d101d2c09ef5bd772b1df474d3cff9c",
+            "resource": "test_ninja2.png"
         }
     ]
 }
